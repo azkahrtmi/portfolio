@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body {
+  background: #0a0a0a;
+  margin: 0;
+  color: white;
+  font-family: "Roboto Serif", serif;
+}
+
+@keyframes blink {
+  0%,
+  50%,
+  100% {
+    visibility: visible;
+  }
+  25%,
+  75% {
+    visibility: hidden;
+  }
+}
+
+.animate-blink {
+  animation: blink 2s step-start infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
