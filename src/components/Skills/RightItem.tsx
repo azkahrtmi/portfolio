@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function RightItem() {
   return (
     <div className="flex-1 flex-col">
