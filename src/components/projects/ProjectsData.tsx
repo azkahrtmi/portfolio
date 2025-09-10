@@ -5,8 +5,8 @@ const projectsData = [
     description:
       "A role-based authentication system where Users manage personal data, while Admins perform CRUD operations and view all registered accounts.",
     image: "/auth.jpg",
-    github: "https://github.com/azkahrtmi/auth-management-system",
-    demo: "https://auth-management-system.vercel.app/",
+    github: "on going",
+    demo: "on going",
     status: "On-Going" as const,
     techStack: [
       "React Vite",
