@@ -7,7 +7,7 @@ const projectsData = [
     image: "/auth.jpg",
     github: "https://github.com/RezaPahlevi1/client-auth-system",
     demo: "https://client-side-system.vercel.app/",
-    status: "On-Going" as const,
+    status: "Completed" as const,
     techStack: [
       "React Vite",
       "Tailwind",
